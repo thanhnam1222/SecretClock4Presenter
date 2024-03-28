@@ -1,0 +1,16 @@
+D:\Nam\0_can lam\BinaryClockXP\BinaryClockXP\BinaryClockXP\bin\Release\Binary Clock XP.exe
+D:\Nam\0_can lam\BinaryClockXP\BinaryClockXP\BinaryClockXP\bin\Release\Binary Clock XP.pdb
+D:\Nam\0_can lam\BinaryClockXP\BinaryClockXP\BinaryClockXP\obj\Release\ResolveAssemblyReference.cache
+D:\Nam\0_can lam\BinaryClockXP\BinaryClockXP\BinaryClockXP\obj\Release\BinaryClockXP.BinaryClock.resources
+D:\Nam\0_can lam\BinaryClockXP\BinaryClockXP\BinaryClockXP\obj\Release\BinaryClockXP.csproj.GenerateResource.Cache
+D:\Nam\0_can lam\BinaryClockXP\BinaryClockXP\BinaryClockXP\obj\Release\Binary Clock XP.exe
+D:\Nam\0_can lam\BinaryClockXP\BinaryClockXP\BinaryClockXP\obj\Release\Binary Clock XP.pdb
+D:\Nam\0_can lam\BinaryClockXP\BinaryClockXP\BinaryClockXP\obj\Release\SecretClock4Presenter.Properties.Resources.resources
+D:\Nam\0_can lam\_ok_BinaryClockXP_SecretClock4Presenter\BinaryClockXP\BinaryClockXP\obj\Release\Binary Clock XP.exe
+D:\Nam\0_can lam\_ok_BinaryClockXP_SecretClock4Presenter\BinaryClockXP\BinaryClockXP\obj\Release\Binary Clock XP.pdb
+D:\Nam\0_can lam\_ok_BinaryClockXP_SecretClock4Presenter\BinaryClockXP\BinaryClockXP\bin\Release\Binary Clock XP.exe
+D:\Nam\0_can lam\_ok_BinaryClockXP_SecretClock4Presenter\BinaryClockXP\BinaryClockXP\bin\Release\Binary Clock XP.pdb
+D:\Nam\0_can lam\_ok_BinaryClockXP_SecretClock4Presenter\BinaryClockXP\BinaryClockXP\obj\Release\ResolveAssemblyReference.cache
+D:\Nam\0_can lam\_ok_BinaryClockXP_SecretClock4Presenter\BinaryClockXP\BinaryClockXP\obj\Release\BinaryClockXP.BinaryClock.resources
+D:\Nam\0_can lam\_ok_BinaryClockXP_SecretClock4Presenter\BinaryClockXP\BinaryClockXP\obj\Release\SecretClock4Presenter.Properties.Resources.resources
+D:\Nam\0_can lam\_ok_BinaryClockXP_SecretClock4Presenter\BinaryClockXP\BinaryClockXP\obj\Release\BinaryClockXP.csproj.GenerateResource.Cache
